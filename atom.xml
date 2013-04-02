@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://WSRMobile.github.com/WSRMobile/atom.xml" rel="self"/>
   <link href="http://WSRMobile.github.com/WSRMobile/"/>
-  <updated>2013-04-01T18:51:44-07:00</updated>
+  <updated>2013-04-01T18:54:39-07:00</updated>
   <id>http://WSRMobile.github.com/WSRMobile/</id>
   <author>
     <name><![CDATA[WSR Crew]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post 2]]></title>
+    <link href="http://WSRMobile.github.com/WSRMobile/blog/2013/04/01/post-2/"/>
+    <updated>2013-04-01T18:53:00-07:00</updated>
+    <id>http://WSRMobile.github.com/WSRMobile/blog/2013/04/01/post-2</id>
+    <content type="html"><![CDATA[<p>Testing another post upload</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Listen up Yo!]]></title>
