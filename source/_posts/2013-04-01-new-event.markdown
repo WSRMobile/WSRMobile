@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "New Event"
+title: "Listen up Yo!"
 date: 2013-04-01 17:07
 comments: false
 categories: 
+sharing: false
 ---
 #In todays news, I got a job
 so wsr app development will slow down a bit.

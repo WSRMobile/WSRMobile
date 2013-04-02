@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Post 2"
+date: 2013-04-01 18:53
+comments: true
+categories: 
+---
+Testing another post upload
