@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[]]></title>
   <link href="http://WSRMobile.github.com/WSRMobile/atom.xml" rel="self"/>
   <link href="http://WSRMobile.github.com/WSRMobile/"/>
-  <updated>2013-04-01T17:08:17-07:00</updated>
+  <updated>2013-04-01T17:16:31-07:00</updated>
   <id>http://WSRMobile.github.com/WSRMobile/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[WSR Crew]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
